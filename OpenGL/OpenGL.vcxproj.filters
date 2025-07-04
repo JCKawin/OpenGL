@@ -19,4 +19,18 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jckaw\AppData\Local\Temp\Rar$DRa28364.18167.rartemp\glew-2.1.0\include\GL\eglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jckaw\AppData\Local\Temp\Rar$DRa28364.18167.rartemp\glew-2.1.0\include\GL\glew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jckaw\AppData\Local\Temp\Rar$DRa28364.18167.rartemp\glew-2.1.0\include\GL\glxew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jckaw\AppData\Local\Temp\Rar$DRa28364.18167.rartemp\glew-2.1.0\include\GL\wglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
